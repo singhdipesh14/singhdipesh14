@@ -2,7 +2,7 @@
 
 <p>
 <a href="https://github.com/singhdipesh14">
-  <img align="left" alt="Dipesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Dipesh's Github" width="25" src="/resources/github.png" />
 </a>
 
 <a href="https://twitter.com/DipeshS33865964"><img width="25" height="25" src="/resources/twitter.svg"></a>
