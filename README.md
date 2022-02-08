@@ -18,6 +18,7 @@ I'm Dipesh Singh, pursuing a Bachelor's Degree in Computer Science Engineering. 
 
 ### Summary 👨‍
 
+- ⌨️ Software Engineering Intern @ [Symbl.ai](https://symbl.ai/)
 - 💻 I’m currently trying my hands on Competitive Coding, and learning about REST APIs with Java Spring Boot Framework.
 - 👯 I’m looking to collaborate on project ideas and participate actively in discussions and webinars about advancements in ReactJs, NodeJs, and TypeScript.
 - 🤔 I’m looking for help with Spring Boot Framework and REST APIs.
